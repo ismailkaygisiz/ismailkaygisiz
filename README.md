@@ -1,7 +1,7 @@
 # Hi I'm İsmail KAYGISIZ 👋
 ---
 
-<div style="text-align:center;margin-top:5vh">
+<div style="align-items:center;text-align:center;margin-top:5vh">
 
 ## __Contact__
 ---
