@@ -32,6 +32,12 @@
 
 ## __Projects__
 ---
+<a href="https://github.com/ismailkaygisiz/TransportathonHackathon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismailkaygisiz&repo=TransportathonHackathon&theme=cobalt" />
+</a>
+<a href="https://github.com/ismailkaygisiz/WordHuntHackathon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismailkaygisiz&repo=WordHuntHackathon&theme=cobalt" />
+</a>
 <a href="https://github.com/ismailkaygisiz/ArtChitecture">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismailkaygisiz&repo=ArtChitecture&theme=cobalt" />
 </a>
