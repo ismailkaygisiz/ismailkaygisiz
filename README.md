@@ -1,4 +1,4 @@
-# Hi I'm [İsmail KAYGISIZ](https://ismailkaygisiz.github.io/) 👋
+# I'm [İsmail](https://ismailkaygisiz.github.io/) 👋
 ---
 
 <div style="align-items:center;text-align:center;margin-top:5vh">
