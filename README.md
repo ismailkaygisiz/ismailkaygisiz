@@ -7,15 +7,6 @@
 
 <a title="Gmail" href="mailto:kaygisizismail24@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a title="LinkedIn" href="https://linkedin.com/in/ismailkaygisiz" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a title="Instagram" href="https://www.instagram.com/ismail_kaygszz/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-
-<div style="margin-top:5vh"></div>
-
-## __Github Stats__
----
-[![ismailkaygisiz GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailkaygisiz&show_icons=true&theme=tokyonight)](https://github.com/ismailkaygisiz/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkaygisiz&theme=radical&layout=compact)](https://github.com/ismailkaygisiz/)
 
 <div style="margin-top:5vh"></div>
 
